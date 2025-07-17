@@ -1,4 +1,6 @@
 # Excel-projects
+THIS IS MY FIRST PROJECT
+
 This is an interactive sales dashboard created in Microsoft Excel to analyze and visualize e-commerce sales data for a retail and online store.
 
 Key Features:
